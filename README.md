@@ -5,6 +5,7 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
 ## Get started
 
 Environment
+- Node (21.7.3)
 - yarn (3.6.4)
 
 1. Install dependencies
