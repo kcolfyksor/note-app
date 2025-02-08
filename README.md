@@ -23,7 +23,7 @@ Environment used in development
    ```
    With Build
    ```bash
-   yarn start (to start Metro)
+   yarn start (OPTIONAL: to start Metro)
    yarn ios
    yarn android
    ```
