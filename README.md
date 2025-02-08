@@ -4,16 +4,28 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
 
 ## Get started
 
+Environment
+- yarn (3.6.4)
+- 
+
 1. Install dependencies
 
    ```bash
-   npm install
+   yarn install
    ```
 
 2. Start the app
 
+   With Expo
    ```bash
-    npx expo start
+   yarn expo:ios
+   yarn expo:android
+   ```
+   With Build
+   ```bash
+   yarn start (to start Metro)
+   yarn ios
+   yarn android
    ```
 
 In the output, you'll find options to open the app in a
